@@ -34,6 +34,12 @@ changes the "XP" icon on the HUD to the players
 current level
 ```
 
+### MagicBox
+```
+adds a Magic Box to game that maxes out the stack of
+any item inside when the box is closed
+```
+
 ### RadialMenuTest
 ```
 an example of how to use the generic in game radial
