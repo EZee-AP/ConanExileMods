@@ -8,7 +8,7 @@ used as examples
 
 
 
-### BoobWobble
+### "BoobWobble"
 ```
 Increases breast physics, accounts for the more violent 
 movements jump/crouch etc (replicates so can work in MP)
@@ -28,19 +28,19 @@ an example of how to add custom emote animations
 this is version 1 of EmoteExLite
 ```
 
-### LevelIcon
+### "LevelIcon"
 ```
 changes the "XP" icon on the HUD to the players
 current level
 ```
 
-### MagicBox
+### "MagicBox"
 ```
 adds a Magic Box to game that maxes out the stack of
 any item inside when the box is closed
 ```
 
-### RadialMenuTest
+### "RadialMenuTest"
 ```
 an example of how to use the generic in game radial
 menu's (see BasePlayerChar file)
@@ -52,20 +52,20 @@ Adds 2 new item blueprints that can be used to learn feats
 when used, also demonstrates controlling faction loot chest
 ```
 
-### TeleportStone
+### "TeleportStone"
 ```
 adds a new stackable "GameItem" blueprint that
 features the "Use" option and teleports the player
 back to his bed/bedroll
 ```
 
-### TimeWidget
+### "TimeWidget"
 ```
 a simple widget demonstrating how to capture and
 phrase the current in game time of day
 ```
 
-### TrashCan
+### "TrashCan"
 ```
 adds a new "Chest" item that can delete its contents
 ```
