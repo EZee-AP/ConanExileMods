@@ -5,7 +5,15 @@ most of the mods will not be maintained during
 the games early access period but can still be 
 used as examples
 
+ID Claim
+	ItemTable
+	500000-500199
 
+	FeatTable
+	500200-500399
+
+	RecipeTable
+	500400-500599
 
 
 ### "BoobWobble"
