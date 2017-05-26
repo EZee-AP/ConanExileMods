@@ -6,6 +6,7 @@ the games early access period but can still be
 used as examples
 
 ID Claim
+
 	ItemTable
 	500000-500199
 
