@@ -31,6 +31,11 @@ to the items/recipe that can be crafted at the
 furnace and blacksmith bench
 ```
 
+### "CustomMap" 
+```
+Simple demo project setup for creating custom maps
+```
+
 ### "EmoteEx"
 ```
 an example of how to add custom emote animations
