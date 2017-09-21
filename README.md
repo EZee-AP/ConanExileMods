@@ -17,29 +17,27 @@ ID Claim
 	500400-500599
 
 
-### "BoobWobble"
-```
-Increases breast physics, accounts for the more violent 
-movements jump/crouch etc (replicates so can work in MP)
-```
-
 ### "Currency" 
 ```
 displays how to add new minable foliage type 
 "Gold", this also adds "Gold Bars" and "Gold Coins" 
 to the items/recipe that can be crafted at the
 furnace and blacksmith bench
+
+NOTE: if you have problems with nodes not dropping 
+any resource check "Environment/Materials/M_Gold_Inst"
+and make sure "Phys Material" is set to "Ore_Gold"
+```
+
+### "ConfigurableInput" 
+```
+displays how to add a configurable key using actor component
+see readme for set up as it requires editing "DefaultInput.ini"
 ```
 
 ### "CustomMap" 
 ```
 Simple demo project setup for creating custom maps
-```
-
-### "EmoteEx"
-```
-an example of how to add custom emote animations
-this is version 1 of EmoteExLite
 ```
 
 ### "LevelIcon"
@@ -52,12 +50,6 @@ current level
 ```
 adds a Magic Box to game that maxes out the stack of
 any item inside when the box is closed
-```
-
-### "RadialMenuTest"
-```
-an example of how to use the generic in game radial
-menu's (see BasePlayerChar file)
 ```
 
 ### "Scrolls" 
