@@ -8,7 +8,7 @@ compress - compress pak file
 
 How-To
 copy UnrealPak.exe from the devkit files, copy pak/folder to the
-directory and drag and drop onto the bnatch file.
+directory and drag and drop onto the batch file.
 
 extract/compress support .pak file
 create supports folders 
