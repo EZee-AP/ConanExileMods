@@ -1,0 +1,16 @@
+{
+	"name": "InstanceMeshTool",
+	"description": "",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "InstanceMeshTool",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}

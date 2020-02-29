@@ -1,0 +1,16 @@
+{
+	"name": "RPS",
+	"description": "Simple Rock, Paper, Scissors game",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "hades aka EZee_AP",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "RPS",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}

@@ -1,0 +1,16 @@
+{
+	"name": "HadesWeapons",
+	"description": "Two handed spear with 5 durability, spear will \"gain\" 1 durability every 3 seconds while equiped",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "EZee_AP/hades",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "HadesWeapons",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}
