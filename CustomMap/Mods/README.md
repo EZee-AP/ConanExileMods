@@ -29,14 +29,12 @@ BPMeteorProjectile)
 
 To load into the map in SP/COOP you should use this 
 string for the map name
-```
+
 /Game/Mods/CustomMap/Maps/CustomMap
-```
 
 To load on a dedicated server you must add this string
 to Engine.ini
-```
+
 [/script/enginesettings.gamemapssettings]
 ServerDefaultMap=/Game/Mods/CustomMap/Maps/CustomMap
-```
 ```

@@ -1,6 +1,5 @@
 ### CustomMap
 ```
-
 Mods/CustomMap
 Template map
 
