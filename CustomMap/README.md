@@ -2,9 +2,9 @@
 ```
 
 Mods/CustomMap
-DO NOT USE
-Currently out of date and requires updated
+Template map
 
 Tools
-Simple heightmap cutter
+Simple heightmap cutter and tool to help create
+heatmap image.
 ```
