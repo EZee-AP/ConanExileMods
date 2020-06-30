@@ -48,6 +48,6 @@ With a little editing you should be able to create a new array from scratch to h
 of the sky, see the Force Dark option and the "BuildPatchArrays" function ;)
 
 If you have issues with the dungeon not loading in the game, you might need to open ConanSandbox.umap,
-load the dungeon level then assign it to layer unassigned in world composition.
+load the dungeon level then assign it to layer "uncategorized" in world composition.
 ```
 
