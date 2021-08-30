@@ -2,8 +2,8 @@
 ```
 By using this source you agree that any work derived from it will be 
 used for none profit (including donations) unless granted, and that
-the derived work will fully support ModControlPanel intergration
-for class features (charactersheet etc).
+the derived work will fully support ModControlPanel integration
+for class features (character sheet etc).
 ```
 
 ```
@@ -20,7 +20,7 @@ the mage class (can be disabled).
 This mod is considered unfinished/work in progress and may require 
 some work to get working the way you want it to.
 
-Aditional classes can be defined/setup in "Class/DT_Class_Data"
+Additional classes can be defined/setup in "Class/DT_Class_Data"
 
 Current Classes
 	Builder
