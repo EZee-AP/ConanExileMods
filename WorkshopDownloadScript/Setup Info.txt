@@ -1,0 +1,17 @@
+EZee_AP/hades, use at your own risk....
+
+Script can be used to download workshop items without owning the game
+for example to obtain mods to run on a local dedicated server or none 
+steam edition of the game.
+
+The "first" time you execute the script steam will be downloaded to 
+"WorkshopDownloadScript\Steam". 
+
+Instructions.
+
+1. Download SteamCMD from Valve
+	https://developer.valvesoftware.com/wiki/SteamCMD
+2. Copy "steamcmd.exe" to "WorkshopDownloadScript\Steam"
+3. Add workshop item ID's to "ModIDs.txt" file, one ID per line
+	see example file.
+4. execute "Run.bat"
